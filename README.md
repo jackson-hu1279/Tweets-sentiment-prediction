@@ -39,7 +39,7 @@ Some helper scripts are used to process or analyse the data set:
     - Check the distribution of certain words between demographic groups
 
 ## References
-Scripts use existing machine learning models from *Scikit-learn* library. 
+Scripts use existing machine learning models from *Scikit-learn* library with customised parameters. 
 
 Bias evaluation metrics including `Selection rate`, `Demographic parity difference` are from *Fairlearn*.
 
